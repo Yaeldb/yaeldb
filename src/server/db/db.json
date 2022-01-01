@@ -1,9 +1,6 @@
 {
-    "users": {
-        "admin": {
-            "id": 1,
-            "name": "admin",
-            "password": "admin"
-        }
-    }
+  "users": {
+    "users": {},
+    "projects": {}
+  }
 }
